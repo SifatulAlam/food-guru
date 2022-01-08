@@ -1,0 +1,76 @@
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Nunito", sans-serif;
+  color: rgb(99, 99, 99);
+  margin: 0;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 30px;
+}
+.text-position {
+  padding-top: 100px;
+}
+.orange-color {
+  color: rgba(255, 145, 0, 0.788);
+}
+.flexible {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding: 5%;
+}
+.half-width img {
+  width: 100%;
+}
+.link-button {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(to right, orange, red);
+  padding: 15px 30px;
+  border-radius: 30px;
+  font-weight: 600;
+}
+.about-us {
+  background-image: url(images/shapes/7.png);
+  background-position: center;
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+}
+.text-align {
+  text-align: center;
+}
+.one-third-width {
+  width: 35%;
+  padding: 5%;
+}
+.one-third-width img {
+  width: 100%;
+}
+.cards {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 10%;
+  padding: 20px;
+  box-shadow: 20px 20px 40px gray;
+  border-radius: 20px;
+}
+.new-card {
+  width: 70%;
+  margin-left: 13%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-bottom: 3%;
+  box-shadow: 20px 20px 40px gray;
+  border-radius: 20px;
+}
+#footer {
+  background-color: black;
+  padding: 4%;
+}
